@@ -1,4 +1,4 @@
-# YouTube 13x Speed Controller
+# YouTube videos Speed Controller
 
 A simple browser bookmarklet to speed up YouTube and web videos up to 15x.
 
