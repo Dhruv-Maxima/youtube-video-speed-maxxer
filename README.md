@@ -1,6 +1,6 @@
 # YouTube videos Speed Controller
 
-A simple browser bookmarklet to speed up YouTube and web videos up to 15x.
+A simple browser bookmarklet to speed up YouTube and web videos up to 13x.
 
 ## How to Install
 1. Right-click your browser's Bookmarks Bar and select **Add Page** (or **New Bookmark**).
